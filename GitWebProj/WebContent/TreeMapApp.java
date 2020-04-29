@@ -30,7 +30,7 @@ public class TreeMapApp {
 		System.out.println("[배열 정렬후 출력]");
 		for(String ele : stringArray) System.out.println(ele);
 		//Arrays.toString(): 배열을 문자열로 변경
-		System.out.println(Arrays.toString(stringArray));
+		//System.out.println(Arrays.toString(stringArray));
 		/* Arrays 의 메소드 
 		 * public static int binarySearch(인자):
 		 * binary search algorithm을 적용해서
